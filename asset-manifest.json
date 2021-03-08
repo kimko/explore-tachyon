@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/explore-tachyons/static/css/main.599d969e.chunk.css",
+    "main.js": "/explore-tachyons/static/js/main.3f291ef3.chunk.js",
+    "main.js.map": "/explore-tachyons/static/js/main.3f291ef3.chunk.js.map",
+    "runtime-main.js": "/explore-tachyons/static/js/runtime-main.570fd0b5.js",
+    "runtime-main.js.map": "/explore-tachyons/static/js/runtime-main.570fd0b5.js.map",
+    "static/js/2.9e7a8a8e.chunk.js": "/explore-tachyons/static/js/2.9e7a8a8e.chunk.js",
+    "static/js/2.9e7a8a8e.chunk.js.map": "/explore-tachyons/static/js/2.9e7a8a8e.chunk.js.map",
+    "static/js/3.6a217661.chunk.js": "/explore-tachyons/static/js/3.6a217661.chunk.js",
+    "static/js/3.6a217661.chunk.js.map": "/explore-tachyons/static/js/3.6a217661.chunk.js.map",
+    "index.html": "/explore-tachyons/index.html",
+    "static/css/main.599d969e.chunk.css.map": "/explore-tachyons/static/css/main.599d969e.chunk.css.map",
+    "static/js/2.9e7a8a8e.chunk.js.LICENSE.txt": "/explore-tachyons/static/js/2.9e7a8a8e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/explore-tachyons/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570fd0b5.js",
+    "static/js/2.9e7a8a8e.chunk.js",
+    "static/css/main.599d969e.chunk.css",
+    "static/js/main.3f291ef3.chunk.js"
+  ]
+}
